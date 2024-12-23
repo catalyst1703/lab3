@@ -1,0 +1,146 @@
+[
+    {
+        "color": [
+            165,
+            69,
+            145,
+            255
+        ],
+        "position": [
+            235.0,
+            78.0
+        ],
+        "size": [
+            33.448604583740234,
+            33.448604583740234
+        ],
+        "type": "Rectangle",
+        "visible": true
+    },
+    {
+        "color": [
+            14,
+            161,
+            2,
+            255
+        ],
+        "position": [
+            603.0,
+            167.0
+        ],
+        "size": [
+            35.52767562866211,
+            35.52767562866211
+        ],
+        "type": "Rectangle",
+        "visible": true
+    },
+    {
+        "color": [
+            180,
+            111,
+            154,
+            255
+        ],
+        "position": [
+            225.0,
+            454.0
+        ],
+        "radius": 21.286447525024414,
+        "type": "Circle",
+        "visible": true
+    },
+    {
+        "color": [
+            156,
+            80,
+            9,
+            255
+        ],
+        "position": [
+            533.0,
+            480.0
+        ],
+        "radius": 21.718647003173828,
+        "type": "Circle",
+        "visible": true
+    },
+    {
+        "figures": [
+            {
+                "color": [
+                    83,
+                    24,
+                    161,
+                    255
+                ],
+                "position": [
+                    235.0,
+                    228.0
+                ],
+                "size": [
+                    23.767019271850586,
+                    23.767019271850586
+                ],
+                "type": "Rectangle",
+                "visible": true
+            },
+            {
+                "color": [
+                    83,
+                    24,
+                    161,
+                    255
+                ],
+                "position": [
+                    603.0,
+                    267.0
+                ],
+                "size": [
+                    23.767019271850586,
+                    23.767019271850586
+                ],
+                "type": "Rectangle",
+                "visible": true
+            }
+        ],
+        "type": "AggregateFigure",
+        "visible": true
+    },
+    {
+        "figures": [
+            {
+                "color": [
+                    113,
+                    214,
+                    131,
+                    255
+                ],
+                "position": [
+                    225.0,
+                    364.0
+                ],
+                "radius": 18.492515563964844,
+                "type": "Circle",
+                "visible": true
+            },
+            {
+                "color": [
+                    113,
+                    214,
+                    131,
+                    255
+                ],
+                "position": [
+                    533.0,
+                    380.0
+                ],
+                "radius": 18.492515563964844,
+                "type": "Circle",
+                "visible": true
+            }
+        ],
+        "type": "AggregateFigure",
+        "visible": true
+    }
+]

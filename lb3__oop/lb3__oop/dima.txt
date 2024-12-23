@@ -1,0 +1,77 @@
+[
+    {
+        "color": [
+            255,
+            255,
+            255,
+            255
+        ],
+        "position": [
+            547.0,
+            422.0
+        ],
+        "radius": 23.06861686706543,
+        "type": "Circle",
+        "visible": true
+    },
+    {
+        "color": [
+            255,
+            255,
+            255,
+            255
+        ],
+        "position": [
+            -0.13695144653320313,
+            0.0
+        ],
+        "radius": 25.0,
+        "type": "Circle",
+        "visible": true
+    },
+    {
+        "color": [
+            255,
+            255,
+            255,
+            255
+        ],
+        "position": [
+            318.0,
+            331.0
+        ],
+        "radius": 20.44767951965332,
+        "type": "Circle",
+        "visible": true
+    },
+    {
+        "color": [
+            255,
+            255,
+            255,
+            255
+        ],
+        "position": [
+            78.0,
+            186.0
+        ],
+        "radius": 23.301633834838867,
+        "type": "Circle",
+        "visible": true
+    },
+    {
+        "color": [
+            255,
+            255,
+            255,
+            255
+        ],
+        "position": [
+            99.0,
+            476.45050048828125
+        ],
+        "radius": 23.774751663208008,
+        "type": "Circle",
+        "visible": true
+    }
+]

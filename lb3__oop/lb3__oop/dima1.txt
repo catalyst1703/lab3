@@ -1,0 +1,113 @@
+[
+    {
+        "color": [
+            181,
+            198,
+            30,
+            255
+        ],
+        "position": [
+            535.9513549804688,
+            147.0
+        ],
+        "radius": 8.879030227661133,
+        "type": "Circle",
+        "visible": true
+    },
+    {
+        "color": [
+            255,
+            255,
+            255,
+            255
+        ],
+        "position": [
+            146.96401977539063,
+            393.0
+        ],
+        "radius": 6.567824363708496,
+        "type": "Circle",
+        "visible": true
+    },
+    {
+        "color": [
+            97,
+            29,
+            243,
+            255
+        ],
+        "position": [
+            302.0,
+            342.3819580078125
+        ],
+        "radius": 6.30902624130249,
+        "type": "Circle",
+        "visible": true
+    },
+    {
+        "color": [
+            130,
+            235,
+            212,
+            255
+        ],
+        "position": [
+            69.96365356445313,
+            213.0
+        ],
+        "radius": 4.178355693817139,
+        "type": "Circle",
+        "visible": true
+    },
+    {
+        "color": [
+            226,
+            47,
+            202,
+            255
+        ],
+        "position": [
+            114.0,
+            0.0
+        ],
+        "radius": 16.893234252929688,
+        "type": "Circle",
+        "visible": true
+    },
+    {
+        "figures": [
+            {
+                "color": [
+                    67,
+                    116,
+                    192,
+                    255
+                ],
+                "position": [
+                    395.0507507324219,
+                    223.26129150390625
+                ],
+                "radius": 0.8038556575775146,
+                "type": "Circle",
+                "visible": true
+            },
+            {
+                "color": [
+                    67,
+                    116,
+                    192,
+                    255
+                ],
+                "position": [
+                    48.99643325805664,
+                    145.26129150390625
+                ],
+                "radius": 0.4310825765132904,
+                "type": "Circle",
+                "visible": true
+            }
+        ],
+        "type": "AggregateFigure",
+        "visible": true
+    }
+]
